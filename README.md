@@ -1,3 +1,3 @@
 # Hi!
 
-Welcome to my page! I'm Yuun <3.
+Welcome to my profile! I'm Yuun <3.
