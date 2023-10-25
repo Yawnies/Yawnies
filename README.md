@@ -1,6 +1,6 @@
 # Hi!
 
-Welcome to my profile! I'm Yuun <3. 
+Welcome to my profile! I'm Yuun <3.  
 I'm a front-end developer. Check out my projects below and don't mind my open repos, they're (usually) outdated.
 
 ### Websites/Projects
@@ -11,5 +11,5 @@ I'm a front-end developer. Check out my projects below and don't mind my open re
 
 ### Usual Stack
 
-JS/TS, React (Next.js), Tailwind, Prisma+Supabase. 
+JS/TS, React (Next.js), Tailwind, Prisma+Supabase.  
 Have used other solutions such as NextAuth, Axios, Bootstrap, Chakra, etc. when projects require 'em.
