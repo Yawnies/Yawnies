@@ -8,7 +8,7 @@ I'm a front-end developer. Check out my projects below and don't mind my open re
 - [Portfolio](https://yuunie.vercel.app/) (no custom domain yet)
 - [Volcadon](https://volcadon.net/) (game wiki site)
 - [Nobledeal](https://nobledeal.vercel.app/) (site for finding game deals anywhere, no custom domain)
-- + a few other private projects
+- a few other private projects
 
 ### Usual Stack
 
