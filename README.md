@@ -1,13 +1,14 @@
 # Hi!
 
 Welcome to my profile! I'm Yuun <3.  
-I'm a front-end developer. Check out my projects below and don't mind my open repos, they're (usually) outdated.
+I'm a front-end developer. Check out my projects below and don't mind my open repos, they're usually obsolete/learning only.
 
 ### Websites/Projects
 
 - [Portfolio](https://yuunie.vercel.app/) (no custom domain yet)
 - [Volcadon](https://volcadon.net/) (game wiki site)
 - [Nobledeal](https://nobledeal.vercel.app/) (site for finding game deals anywhere, no custom domain)
+- + a few other private projects
 
 ### Usual Stack
 
