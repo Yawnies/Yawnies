@@ -5,7 +5,8 @@ I'm a front-end developer. Check out my projects below and don't mind my open re
 
 ### Websites/Projects
 
-- [Portfolio](https://yuunie.vercel.app/) (no custom domain yet)
+- [Personal Site](https://yuun.dev/)
+
 - [Volcadon](https://volcadon.net/) (game wiki site)
 - [Arcane Builder](https://arcanebuilder.vercel.app/) (gear (equipment) building site for Arcane Odyssey)
 - [DBDStats](https://dbdstats.com) (client/joint project)
